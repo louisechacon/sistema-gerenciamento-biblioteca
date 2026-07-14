@@ -4,16 +4,14 @@ Este é um projeto realizado para praticar conceitos de Programação Orientada 
 O sistema permite, ainda, calcular multas por atraso e gerar listas dos livros e revistas emprestados no momento.
 
 ## Pré-requisito para executar na sua máquina
-```
-- Instalar o Java SDK.
-```
+Instalar o Java SDK.
 
 ## Comando para compilar
 ```
-- javac -d bin src/gerenciamentoBiblioteca/*.java
+javac -d bin src/gerenciamentoBiblioteca/*.java
 ```
 
 ## Comando para executar
 ```
-- java -cp bin gerenciamentoBiblioteca.Main
+java -cp bin gerenciamentoBiblioteca.Main
 ```
