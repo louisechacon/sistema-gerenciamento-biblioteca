@@ -3,6 +3,8 @@ Este é um projeto realizado para praticar conceitos de Programação Orientada 
 
 O sistema permite, ainda, calcular multas por atraso e gerar listas dos livros e revistas emprestados no momento.
 
+![Imagem do diagrama de classes construído como base para o projeto](docs/biblioteca-diagrama-classes.png)
+
 ## Pré-requisito para executar na sua máquina
 Instalar o Java SDK.
 
