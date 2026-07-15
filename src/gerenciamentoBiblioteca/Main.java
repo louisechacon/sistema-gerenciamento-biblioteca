@@ -85,7 +85,7 @@ public class Main {
         String titulo = input.nextLine();
         System.out.print("Código: ");
         String codigo = input.nextLine();
-        System.out.print("Periodicidade (semanal, quinzenal, mensal...)");
+        System.out.print("Periodicidade (semanal, quinzenal, mensal...): ");
         String periodicidade = input.nextLine();
 
         Revista revista = new Revista(titulo, codigo, periodicidade);
